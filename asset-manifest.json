@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kishoreportfolio/static/css/main.071f4462.chunk.css",
+    "main.js": "/kishoreportfolio/static/js/main.3067edd8.chunk.js",
+    "main.js.map": "/kishoreportfolio/static/js/main.3067edd8.chunk.js.map",
+    "runtime-main.js": "/kishoreportfolio/static/js/runtime-main.d7bf0855.js",
+    "runtime-main.js.map": "/kishoreportfolio/static/js/runtime-main.d7bf0855.js.map",
+    "static/js/2.4a5c6402.chunk.js": "/kishoreportfolio/static/js/2.4a5c6402.chunk.js",
+    "static/js/2.4a5c6402.chunk.js.map": "/kishoreportfolio/static/js/2.4a5c6402.chunk.js.map",
+    "static/css/3.0bae969b.chunk.css": "/kishoreportfolio/static/css/3.0bae969b.chunk.css",
+    "static/js/3.3706548c.chunk.js": "/kishoreportfolio/static/js/3.3706548c.chunk.js",
+    "static/js/3.3706548c.chunk.js.map": "/kishoreportfolio/static/js/3.3706548c.chunk.js.map",
+    "static/js/4.7d9701f2.chunk.js": "/kishoreportfolio/static/js/4.7d9701f2.chunk.js",
+    "static/js/4.7d9701f2.chunk.js.map": "/kishoreportfolio/static/js/4.7d9701f2.chunk.js.map",
+    "static/js/5.450522dd.chunk.js": "/kishoreportfolio/static/js/5.450522dd.chunk.js",
+    "static/js/5.450522dd.chunk.js.map": "/kishoreportfolio/static/js/5.450522dd.chunk.js.map",
+    "static/js/6.c5baf57b.chunk.js": "/kishoreportfolio/static/js/6.c5baf57b.chunk.js",
+    "static/js/6.c5baf57b.chunk.js.map": "/kishoreportfolio/static/js/6.c5baf57b.chunk.js.map",
+    "index.html": "/kishoreportfolio/index.html",
+    "static/css/3.0bae969b.chunk.css.map": "/kishoreportfolio/static/css/3.0bae969b.chunk.css.map",
+    "static/css/main.071f4462.chunk.css.map": "/kishoreportfolio/static/css/main.071f4462.chunk.css.map",
+    "static/js/2.4a5c6402.chunk.js.LICENSE.txt": "/kishoreportfolio/static/js/2.4a5c6402.chunk.js.LICENSE.txt",
+    "static/js/3.3706548c.chunk.js.LICENSE.txt": "/kishoreportfolio/static/js/3.3706548c.chunk.js.LICENSE.txt",
+    "static/js/4.7d9701f2.chunk.js.LICENSE.txt": "/kishoreportfolio/static/js/4.7d9701f2.chunk.js.LICENSE.txt",
+    "static/js/5.450522dd.chunk.js.LICENSE.txt": "/kishoreportfolio/static/js/5.450522dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7bf0855.js",
+    "static/css/3.0bae969b.chunk.css",
+    "static/js/3.3706548c.chunk.js",
+    "static/css/main.071f4462.chunk.css",
+    "static/js/main.3067edd8.chunk.js"
+  ]
+}
