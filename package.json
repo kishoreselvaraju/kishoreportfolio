@@ -4,10 +4,13 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "-": "0.0.1",
         "@testing-library/jest-dom": "^5.11.6",
         "@testing-library/react": "^11.2.2",
         "@testing-library/user-event": "^12.2.2",
+        "gh": "^2.8.9",
         "jspdf": "^2.2.0",
+        "pages": "0.0.16",
         "react": "^17.0.1",
         "react-dom": "^17.0.1",
         "react-flow-renderer": "^8.0.0",
