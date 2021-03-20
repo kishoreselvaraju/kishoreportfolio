@@ -1,5 +1,5 @@
 {
-    "homepage": "https://kishoreselvaraju.github.io/kishoreportfolio/",
+    "homepage": "https://kishoreselvaraju.github.io/kishoreportfolio",
     "name": "myportfoliosite",
     "version": "0.1.0",
     "private": true,
@@ -17,7 +17,7 @@
         "web-vitals": "^0.2.4"
     },
     "scripts": {
-        "predeploy": "npm run bulit",
+        "predeploy": "npm run build",
         "deploy": "gh-pages -d bulid",
         "start": "react-scripts start",
         "build": "react-scripts build",
