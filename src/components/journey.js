@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+import MindNode from "./node.component";
 class Journey extends Component {
   render() {
     return (
       <div>
-        <h2> Kishore </h2>
+        <MindNode />
       </div>
     );
   }
