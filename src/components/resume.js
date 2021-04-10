@@ -3,7 +3,6 @@ import { Grid, Cell, Button } from "react-mdl";
 import Education from "./education";
 import Experience from "./experience";
 import Skills from "./skills";
-import pdfGener from "./downloadpdf";
 
 class Resume extends Component {
   render() {
@@ -22,7 +21,7 @@ class Resume extends Component {
             <h4 style={{ color: "grey" }}> Programmer </h4>
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
             <p>
-              Graduate student with 3.6 years of experience in developing
+              Graduate student with 4.2 years of experience in developing
               analytical dashboards, microservice - based web
               applications.Ability to deliver data analytics and advanced data
               driven methods.Actively developing skillset in creating edge
@@ -41,10 +40,30 @@ class Resume extends Component {
               </a>
             </p>
             <h5> Phone </h5> <p> (091) - 6380831635 </p> <h5> email </h5>
-            <p> selvarajukishore94 @gmail.com </p> <h5> Web Site </h5>
-            <p> kishore.com </p>
+            <p> selvarajukishore94 @gmail.com </p> <h5>Web Site</h5>
+            <p>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://kishoreselvaraju.github.io/kishoreportfolio/"
+                style={{
+                  textDecorationLine: "none",
+                  color: "green",
+                }}
+              >
+                Kishore Selvaraju
+              </a>
+            </p>
+            <p>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="/kishoreportfolio/src/asserts/Resume.pdf"
+              >
+                Click here to download Resume
+              </a>
+            </p>
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
-            <pdfGener>Download</pdfGener>
           </Cell>
           <Cell className="resume-right-col" col={8}>
             <h2> Education </h2>

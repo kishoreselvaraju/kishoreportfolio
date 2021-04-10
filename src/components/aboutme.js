@@ -11,7 +11,8 @@ class About extends Component {
           </Cell>
           <Cell col={8}>
             <p className="about-me-description">
-              A vivid programmer who is interested in coding
+              an full stack developer who would like to work in challenging
+              environment and pushing the limit.
             </p>
           </Cell>
         </Grid>
