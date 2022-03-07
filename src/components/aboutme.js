@@ -7,12 +7,12 @@ class About extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={2}>
-            <h2>Early life</h2>
+            <h2> Early life </h2>
           </Cell>
           <Cell col={8}>
             <p className="about-me-description">
               an full stack developer who would like to work in challenging
-              environment and pushing the limit.
+              environment and pushing the limit and to excel.
             </p>
           </Cell>
         </Grid>
